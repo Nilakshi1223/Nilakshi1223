@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilakshi Miyurangika</h1>
-<h3 align="center">From Sri LAnka</h3>
+<h3 align="center">From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilakshi1223&label=Profile%20views&color=0e75b6&style=flat" alt="nilakshi1223" /> </p>
 
