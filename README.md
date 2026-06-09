@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilakshi Semasinghe</h1>
 <h3 align="center">
-Software Engineering Undergraduate | Software Engineer Intern <br/>
+Software Engineering Undergraduate | Software Engineer Intern (Full Stack Engineer) <br/>
 Java • Spring Boot • React • REST APIs
 </h3>
 
